@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio Martinez.</h1>
 <h3 align="center">Focused full stack developer crafting effective digital interfaces from Argentina</h3>
 
-- 🌱 I’m currently learning **JavaScript | React | Node.js | PostgreSQL**
+- 🌱 I’m currently learning **JavaScript | React | Node.js | Express.js | PostgreSQL**
 
 - 📫 How to reach me **ignaciomartinez923@gmail.com**
 
